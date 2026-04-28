@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Lucas Oliveira 👋
+# Olá, eu sou Lucas Oliveira 
 
 ### Estudante de Engenharia de Software | Desenvolvedor Full-Stack em formação
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Engenharia de Software** e estou cursando **Desenvolvimento Full-Stack com Java** na [EBAC](https://ebaconline.com.br/), um curso de 107 módulos dividido entre **Front-End** e **Back-End Java**.
 
@@ -29,7 +29,7 @@ Atualmente estou na **Parte 4 — Fundamentos de React**, após ter consolidado 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### ✅ Já praticando
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,9 +53,9 @@ Atualmente estou na **Parte 4 — Fundamentos de React**, após ter consolidado 
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🏢 [ClienteHub](https://github.com/lucassloliveira/clientehub)
+### [ClienteHub](https://github.com/lucassloliveira/clientehub)
 Aplicação web com **CRUD completo** de clientes via API REST (CrudCrud). Praticando operações de criar, listar e excluir dados com JavaScript assíncrono.
 
 **Por que é relevante:** demonstra consumo de API REST e operações CRUD — habilidades essenciais no mercado.
@@ -64,7 +64,7 @@ Aplicação web com **CRUD completo** de clientes via API REST (CrudCrud). Prati
 
 ---
 
-### 📋 [Cadastro de Usuário + Busca de CEP](https://github.com/lucassloliveira/cadastro-usuario)
+### [Cadastro de Usuário + Busca de CEP](https://github.com/lucassloliveira/cadastro-usuario)
 Formulário de cadastro com **busca automática de endereço via CEP**, integrando a API ViaCEP em tempo real.
 
 **Por que é relevante:** mostra integração com API externa e manipulação dinâmica do DOM.
@@ -73,7 +73,7 @@ Formulário de cadastro com **busca automática de endereço via CEP**, integran
 
 ---
 
-### 🅿️ [Parquímetro](https://github.com/lucassloliveira/parquimetro)
+### [Parquímetro](https://github.com/lucassloliveira/parquimetro)
 Aplicação interativa que simula um parquímetro com **controle de tempo e cálculo de tarifas**.
 
 **Por que é relevante:** demonstra lógica de negócio, manipulação de tempo e UI interativa.
@@ -82,7 +82,7 @@ Aplicação interativa que simula um parquímetro com **controle de tempo e cál
 
 ---
 
-### 🎮 [Jogo da Adivinhação](https://github.com/lucassloliveira/jogo-adivinhacao)
+### [Jogo da Adivinhação](https://github.com/lucassloliveira/jogo-adivinhacao)
 Jogo interativo desenvolvido como atividade prática do curso Front-End na EBAC.
 
 **Por que é relevante:** mostra lógica de programação, controle de fluxo e interatividade com o usuário.
@@ -91,7 +91,7 @@ Jogo interativo desenvolvido como atividade prática do curso Front-End na EBAC.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Jogo interativo desenvolvido como atividade prática do curso Front-End na EBAC.
 
 ---
 
-## 📈 Minha Jornada — Curso Full-Stack Java (EBAC)
+## Minha Jornada — Curso Full-Stack Java (EBAC)
 
 ```
 🎓 CURSO 1 — FRONT-END
@@ -129,7 +129,7 @@ Jogo interativo desenvolvido como atividade prática do curso Front-End na EBAC.
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 Estou sempre aberto a trocar experiências, aprender com outros devs e colaborar em projetos!
 
@@ -140,7 +140,7 @@ Estou sempre aberto a trocar experiências, aprender com outros devs e colaborar
 
 <div align="center">
 
-*"Todo especialista um dia foi um iniciante."* 🚀
+*"Todo especialista um dia foi um iniciante."* 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lucassloliveira.lucassloliveira)
 
