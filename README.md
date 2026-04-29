@@ -36,12 +36,12 @@ Atualmente estou na **Parte 4 — Fundamentos de React**, após ter consolidado 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔄 Estudando agora
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🎯 Em breve (no curso)
+### 🔄 Estudando agora
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🎯 Em breve (no curso)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -110,8 +110,8 @@ Jogo interativo desenvolvido como atividade prática do curso Front-End na EBAC.
 ├── ✅ Parte 1 · Fundamentos da Web (HTML & CSS)
 ├── ✅ Parte 2 · Programação com JavaScript
 ├── ✅ Parte 3 · Design Responsivo e Frameworks CSS
-├── 🔄 Parte 4 · Fundamentos de React          ← estou aqui
-├── ⏳ Parte 5 · Fundamentos de Next.js
+├── ✅ Parte 4 · Fundamentos de React         
+├── 🔄 Parte 5 · Fundamentos de Next.js        ← estou aqui
 ├── ⏳ Parte 6 · Testes e Qualidade de Código
 ├── ⏳ Parte 7 · Fundamentos de Cloud e DevOps
 └── ⏳ Parte 8 · Habilidades Profissionais e Carreira
