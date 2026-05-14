@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Lucas Oliveira 
+# Olá, eu sou Lucas Luz 
 
 ### Estudante de Engenharia de Software | Desenvolvedor Full-Stack em formação
 
